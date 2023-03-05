@@ -8,4 +8,4 @@
  
 <h3>Çalışır Hali</h3>
 
-![](ekran.gif) 
+![](kayit.gif) 
